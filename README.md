@@ -6,7 +6,6 @@
 
 Hey there! I'm a Mobile Developer <img src="https://media.giphy.com/media/pyfDIuQnzncNxhEQEc/giphy.gif" width="30">.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
 [![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmarsian&theme=default)]
 
 
