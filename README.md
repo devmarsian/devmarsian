@@ -4,7 +4,7 @@
 
 ### About Me :
 
-Hey there! I'm a Mobile Developer <img src="https://media.giphy.com/media/pyfDIuQnzncNxhEQEc/giphy.gif" width="30">.
+Hey there! I'm a Mobile Developer <img src="https://media.giphy.com/media/2SKetE43GiWZh2n0jE/giphy.gif" width="30">.
 
 <p align="center">
   <a href="https://git.io/streak-stats">
