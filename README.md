@@ -6,7 +6,9 @@
 
 Hey there! I'm a Mobile Developer <img src="https://media.giphy.com/media/pyfDIuQnzncNxhEQEc/giphy.gif" width="30">.
 
+<div align="center">
 [![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmarsian&theme=tokyonight)]
+</div>
 
 
 ### :hammer_and_wrench: Languages and Tools :
