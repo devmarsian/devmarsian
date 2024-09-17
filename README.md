@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="" width="600" height="300"/>
-</div>
-<div align="center">
   <img src="https://media.giphy.com/media/0fGrosy2JTPzO61PGr/giphy.gif" width="600" height="300"/>
 </div>
 
