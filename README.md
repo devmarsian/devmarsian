@@ -3,7 +3,7 @@
 </div>
 
 ### About Me :
-
+I am a Mobile Developer <img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif" width="30">.
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -22,6 +22,7 @@
 </div>
 
 ### My Stats :
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmarsian)](https://github.com/anuraghazra/github-readme-stats)
 
