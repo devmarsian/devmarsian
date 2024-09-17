@@ -9,8 +9,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmarsian&theme=tokyonight">
   </a>
 </p>
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
@@ -25,4 +23,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="40" height="40"/>&nbsp;
 </div>
+
 ![Visitor Count](https://profile-counter.glitch.me/devmarsian/count.svg)
