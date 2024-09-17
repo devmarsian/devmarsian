@@ -27,4 +27,4 @@ Hey there! I'm a Mobile Developer <img src="https://media.giphy.com/media/2SKetE
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="40" height="40"/>&nbsp;
 </div>
 
-![Visitor Count](https : //profile-counter.glitch.me/devmarsian/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/devmarsian/count.svg)
