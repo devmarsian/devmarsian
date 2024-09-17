@@ -6,6 +6,10 @@
 
 Hey there! I'm a Mobile Developer <img src="https://media.giphy.com/media/pyfDIuQnzncNxhEQEc/giphy.gif" width="30">.
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmarsian&theme=default)]
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
@@ -20,9 +24,3 @@ Hey there! I'm a Mobile Developer <img src="https://media.giphy.com/media/pyfDIu
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="40" height="40"/>&nbsp;
 </div>
-
-### My Stats :
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmarsian)](https://github.com/anuraghazra/github-readme-stats)
-
