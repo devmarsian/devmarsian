@@ -4,7 +4,7 @@
 
 ### About Me :
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47F754&width=435&lines=Hello!+I'm+a+Mobile+Developer)](https://git.io/typing-svg)
-<img src="https://media.giphy.com/media/2SKetE43GiWZh2n0jE/giphy.gif" width="100" height="100">.
+<img src="https://media.giphy.com/media/2SKetE43GiWZh2n0jE/giphy.gif" width="50" height="50">.
 
 <p align="center">
   <a href="https://git.io/streak-stats">
