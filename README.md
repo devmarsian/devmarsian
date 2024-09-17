@@ -14,7 +14,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmarsian&theme=tokyonight">
   </a>
 </p>
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
