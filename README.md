@@ -2,7 +2,12 @@
   <img src="https://media.giphy.com/media/0fGrosy2JTPzO61PGr/giphy.gif" width="600" height="300"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47F754&width=435&lines=Hello!+I'm+a+Mobile+Developer)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47F754&width=435&lines=Hello!+I'm+a+Mobile+Developer" alt="Typing SVG" />
+  </a>
+</div>
+
 ---
 <p align="center">
   <a href="https://git.io/streak-stats">
