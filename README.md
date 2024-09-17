@@ -6,7 +6,7 @@
 
 Hey there! I'm a Mobile Developer <img src="https://media.giphy.com/media/pyfDIuQnzncNxhEQEc/giphy.gif" width="30">.
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmarsian&theme=tokyonight)]
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmarsian&theme=tokyonight)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
